@@ -5,22 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/StartScene.unity
-    guid: ad311aed4c7a2f647966ff199e7757f0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 4c4ce622056519c4a82541240a8a909a
+  - enabled: 1
+    path: Assets/Scenes/FinalFlowerShop.unity
+    guid: 7629e3e70a612fd478c3fbedb5a75c5a
+  - enabled: 1
     path: Assets/Scenes/EndScene.unity
-    guid: 6dd851ca89a9b9546b9edb0e7d4a6d9a
+    guid: 207195192dbb61d4cbc17989217ad1c7
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: befd4949550c56344b81ff4dea33666c,
-      type: 2}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3960f00bbe0bbff479606f2386238a7d,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9f8a0a24a315f1544b094b32828d3334,
-      type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c0b2b5932ba60824294187ca835f8650,
-      type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f6749bf0d80df57419a18cd77ef2d970, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b7c9064fdd0d50d479f6310a4ed69bd9, type: 2}
   m_UseUCBPForAssetBundles: 0
