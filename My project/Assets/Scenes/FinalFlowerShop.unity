@@ -4900,7 +4900,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7.5, y: -18.1}
+  m_AnchoredPosition: {x: 7.5, y: -13.5}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &617948206
@@ -5423,7 +5423,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.5, y: -3.5}
+  m_AnchoredPosition: {x: -1.5, y: -1.5}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &657264137
@@ -6428,9 +6428,9 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 783951077}
-  m_LocalRotation: {x: -0, y: 0.18940121, z: -0, w: 0.9818998}
-  m_LocalPosition: {x: 0, y: 0, z: 1.68}
-  m_LocalScale: {x: 0.03896429, y: 0.03896429, z: 0.03896429}
+  m_LocalRotation: {x: -0, y: 0.04961303, z: -0, w: 0.9987685}
+  m_LocalPosition: {x: 0, y: 0, z: 1.6802}
+  m_LocalScale: {x: 0.04321919, y: 0.04321919, z: 0.04321919}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 199504202}
@@ -6438,10 +6438,10 @@ RectTransform:
   - {fileID: 1625882233}
   - {fileID: 1870420933}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 21.836, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 5.688, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 10.61, y: 2.31}
+  m_AnchoredPosition: {x: 9.93, y: 2.31}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &788307367
@@ -9189,7 +9189,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.5529412, b: 0.6745098, a: 1}
+  m_Color: {r: 1, g: 0.5529412, b: 0.6745098, a: 0.9411765}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -13605,7 +13605,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Use the grip button to select the pink vase
+  m_text: Use the grip button to select the pink vase on your left
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2c7ec35a04bd5744ca79c22559699f3e, type: 2}
   m_sharedMaterial: {fileID: -606203941487586995, guid: 2c7ec35a04bd5744ca79c22559699f3e, type: 2}
@@ -17549,7 +17549,7 @@ RectTransform:
   m_GameObject: {fileID: 2140599116}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0.529}
-  m_LocalScale: {x: 0.050486084, y: 0.050486084, z: 0.050486084}
+  m_LocalScale: {x: 0.04901189, y: 0.04901189, z: 0.04901189}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 1119966118}
